@@ -1,0 +1,36 @@
+body{
+  background-color: #febf63;
+}
+
+h1{
+  font-family: 'Kaushan Script', cursive;
+  margin: 30px;
+  color: #1f4068;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+}
+
+p{
+  font-family: 'Damion', cursive;
+  font-size: 2rem;
+}
+
+img{
+  width: 80%;
+}
+
+footer{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
